@@ -29,3 +29,5 @@ Requires further optimization to determine the best settings (# nodes, # layers,
 - Jucary Estrada
 - Morteza Akbari
 
+## Tableau 
+https://public.tableau.com/app/profile/jucary.estrada/viz/TechStocks_16337459337510/Story1
