@@ -6,7 +6,14 @@
 Create a neural network model that will predict stock prices of 5 top tech companies
 
 ## Dataset
-Used a kaggle dataset with stock prices of AMD, Google, HP, Intel, and Tesla
+Used a kaggle dataset with stock prices for:
+
+- Advanced Micro Devices, Inc. (NASDAQ: AMD)
+- Alphabet Inc Class A (NASDAQ: GOOGL)
+- Helmerich & Payne, Inc. (NYSE: HP)
+- Intel Corporation (NASDAQ: INTC)
+- Tesla Inc. (NASDAQ: TSLA)
+
 
 ## Discussion Overview:
 Created a neural network regression model that attempts to predict the stock prices of 5 top tier tech companies 
